@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class Player extends MovieClip {				var dx, dy;		public function Player() {			dx = 0;			dy = 0;		}				function onLoad()		{			dx = 0;			dy = 0;		}		function onEnterFrame()		{					} 	}	}
