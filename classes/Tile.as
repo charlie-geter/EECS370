@@ -1,0 +1,1 @@
+﻿package  {		public class Tile {		public var:Boolean isStatic = true;		public function Tile(new_x, new_y) {			// constructor code			x = new_x;			y = new_y;		}	}	}
