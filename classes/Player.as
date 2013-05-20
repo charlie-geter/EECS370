@@ -1,0 +1,1 @@
+﻿package {	import flash.display.MovieClip;	public class Player extends MovieClip	{		public var dx;		public var dy;		public function Player(in_x:Number, in_y:Number)		{			x = in_x;			y = in_y;			dx = 0;			dy = 0;					}	}}
