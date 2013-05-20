@@ -1,0 +1,1 @@
+﻿package  {		public class Goal {				var playerCollided:Boolean;				public function Goal() {			// constructor code			playerCollided = false;		}				public function Update() {					}	}	}
