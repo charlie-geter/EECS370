@@ -1,1 +1,1 @@
-﻿package  {		public class Goal {				var playerCollided:Boolean;				public function Goal() {			// constructor code			playerCollided = false;		}				public function Update() {					}	}	}
+﻿package  {	import flash.display.MovieClip;		public class Goal extends MovieClip {				var playerCollided:Boolean;				public function Goal(x:Number, y:Number) {			// constructor code			playerCollided = false;		}				public function Update() {					}	}	}
