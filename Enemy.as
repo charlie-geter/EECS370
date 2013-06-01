@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class Enemy extends MovieClip {				var playerCollided:Boolean;				public function Enemy(new_x:Number, new_y:Number) {			// constructor code			x = new_x;			y = new_y;			playerCollided = false;					}				public function Update() {			//x -= 1;		}	}	}
