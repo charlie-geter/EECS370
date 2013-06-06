@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.MovieClip;		public class Hazard extends MovieClip {		//virtual class for inheritance		public function Hazard() {			// constructor code					}	}	}

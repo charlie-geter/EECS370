@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class ElectricWall extends Hazard {						public function ElectricWall(new_x, new_y) {			// constructor code			x = new_x;			y = new_y;		}	}	}
