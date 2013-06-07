@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class Warp extends Goal {						public function Warp(new_x:Number, new_y:Number, next_L:Number) {			// constructor code			super(new_x, new_y, next_L);		}	}	}
