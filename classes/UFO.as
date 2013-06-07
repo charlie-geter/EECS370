@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class UFO extends Enemy {						public function UFO(new_x:Number, new_y:Number, rTime:Number, spd:Number, left:Boolean) {			// constructor code			super(new_x, new_y, rTime, spd, left);		}	}	}

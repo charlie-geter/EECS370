@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class EndGameScreen extends LevelCompleteText {						public function EndGameScreen() {			// constructor code		}	}	}

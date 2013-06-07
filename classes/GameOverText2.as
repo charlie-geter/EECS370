@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class GameOverText2 extends GameOverText {						public function GameOverText2() {			// constructor code		}	}	}
