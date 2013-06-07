@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class SmallTile extends Tile {						public function SmallTile(new_x:Number, new_y:Number) {			// constructor code			super(new_x, new_y);		}	}	}
