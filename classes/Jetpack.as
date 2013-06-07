@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class Jetpack extends MovieClip {						public function Jetpack(new_x:Number, new_y:Number) {			// constructor code			x = new_x;			y = new_y;		}	}	}
